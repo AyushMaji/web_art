@@ -1,7 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import 'package:sizer/sizer.dart';
-import 'package:web_art/widgets/appbar/custom_appbar.dart';
+import '../utils/barrel.dart';
 
 class PageThree extends StatelessWidget {
   const PageThree({Key? key}) : super(key: key);

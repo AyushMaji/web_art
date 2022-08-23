@@ -1,15 +1,6 @@
 import 'dart:developer';
 
-import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import 'package:responsive_grid/responsive_grid.dart';
-import 'package:sizer/sizer.dart';
-import 'package:web_art/screens/page_two.dart';
-import 'package:web_art/widgets/appbar/custom_appbar.dart';
-import 'package:web_art/widgets/btn/custom_btn.dart';
-import 'package:web_art/widgets/card/card.dart';
-
-export 'package:get/get.dart';
+import '../utils/barrel.dart';
 
 class PageOne extends StatefulWidget {
   const PageOne({Key? key}) : super(key: key);
